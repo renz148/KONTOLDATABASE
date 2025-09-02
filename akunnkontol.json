@@ -1,11 +1,3 @@
 [
-  {
-    "username": "gatau",
-    "password": "gatau1"
-  },
-  7361206838,
-  {
-    "username": "abcd",
-    "password": "renz001"
-  }
+  { "username": "renz", "password": "renz01", "role": "dev" }
 ]
